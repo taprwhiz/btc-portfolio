@@ -842,6 +842,7 @@ main {
 .skills-item:not(:last-child) { margin-bottom: 15px; }
 
 .skill .title-wrapper {
+  justify-content: space-between;
   display: flex;
   align-items: center;
   gap: 5px;
